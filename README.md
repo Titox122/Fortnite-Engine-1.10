@@ -33,7 +33,7 @@ German's Project-Help With Some Stuff
 
 Dj-Andre-Character Direction Variable
 
-Brulle (Check Chronos https://discord.gg/96EXCCjQP7)-Help With Some Stuff
+Brulle (Check Chronos https://discord.gg/96EXCCjQP7) -Help With Some Stuff
 
 Vortex-Help With Uefn Patch And Other Stuff
 
