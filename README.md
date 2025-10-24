@@ -5,15 +5,22 @@ This is a open source recreation of fortnite made for people who wants to recrea
 
 # How Do I Compile This?
 -Clone/Download The Project
+
 -Right Click On The .uproject
+
 -Click "Generate Visual Studio Files"
+
 -Open The .sln
+
 -Compile The Solution
+
 -Enjoy!
 
 # Do I Need To Give Credits?
 of course, the only term of use is that in the credits of your game you need to add "Fortnite Engine By Project164"
+
 if you are going to use anything from this project to your project give credits like this example "Anim Blueprint By Project164"
+
 Pls dont skid my work like other people did with my Fortress Recreation... im making this for the community, all i want is just a little mention. thanks...
 
 # Join Our Discord Server!
