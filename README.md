@@ -1,27 +1,32 @@
 # Fortnite Engine (Fortnite Open Source Recreation)
-
 # What Is This?
-This is a open source recreation of fortnite made for people who wants to recreate or just want to have fun with the game system
 
-# How Do I Compile This?
--Clone/Download The Project
+This is an open-source recreation of Fortnite, made for people who want to rebuild or simply have fun exploring the game’s systems.
 
--Right Click On The .uproject
+How Do I Compile This?
 
--Click "Generate Visual Studio Files"
+-Clone or download the project
 
--Open The .sln
+-Right-click on the .uproject file
 
--Compile The Solution
+-Select “Generate Visual Studio Project Files”
 
--Enjoy!
+-Open the .sln file
+
+-Compile the solution
+
+# -Enjoy!
 
 # Do I Need To Give Credits?
-of course, the only term of use is that in the credits of your game you need to add "Fortnite Engine By Project164"
 
-if you are going to use anything from this project to your project give credits like this example "Anim Blueprint By Project164"
+Well. Of Course xd, The only term of use is that you include the following credit in your game:
+“Fortnite Engine by Project164”
 
-Pls dont skid my work like other people did with my Fortress Recreation... im making this for the community, all i want is just a little mention. thanks...
+If you use specific assets or code from this project, please credit them like this example:
+“Anim Blueprint by Project164”
+
+Please don’t skid my work like others did with my Fortress Recreation project.
+I’m doing this for the community — all I ask for is a small mention. Thanks.
 
 # Join Our Discord Server!
 https://discord.gg/UAWdhgsqxA
@@ -30,28 +35,26 @@ https://discord.gg/UAWdhgsqxA
 
 Creator: Project164
 
-Tector-Help With Everything I Know About Fortnite
+Tector – Helped with everything I know about Fortnite
 
-GmatrixGames And Tector: JsonAsAsset: https://github.com/GMatrixGames/JsonAsAsset
+GmatrixGames & Tector – JsonAsAsset: https://github.com/GMatrixGames/JsonAsAsset
 
-TheBuff-Help With Some Stuff
+TheBuff – Helped with various features
 
-German's Project-Help With Some Stuff
+German's Project – Helped with several systems
 
-Dj-Andre-Character Direction Variable
+Dj-Andre – Character direction variable
 
-Brulle (Check Chronos https://discord.gg/96EXCCjQP7) -Help With Some Stuff
+Brulle (Check Chronos: https://discord.gg/96EXCCjQP7) – Assisted with multiple systems
 
-Vortex-Help With Uefn Patch And Other Stuff
+Vortex – Helped with UEFN patch and other improvements
 
-Jaum-Help With Some Stuff
+Jaum – General assistance and feedback
 
 # LEGAL CREDITS
 
 Portions of the materials used are trademarks and/or copyrighted works of Epic Games, Inc. All rights reserved by Epic. This material is not official and is not endorsed by Epic.
 
-This project, aimed at recreating Fortnite in UE4, is an unofficial fan endeavor. All text files, textures, models, animations, and related assets utilized in this project are the sole property of Epic Games. This project is not affiliated with, endorsed by, sponsored by, or supported by Epic Games. Any unauthorized use, reproduction, or distribution of Epic Games' intellectual property is strictly prohibited. This project is intended solely for non-commercial, fan-based purposes and does not intend to infringe upon any copyrights or trademarks held by Epic Games. By participating in or contributing to this project, you acknowledge and agree to abide by Epic Games' terms of service, end user license agreement, and any other relevant legal provisions. In case of any issues or concerns, please contact us at [computerquamtum@gmail.com].
-
-I don't win any money from this project. It's just a practice project to improve my abilities, and I really like the game. I don't want any trouble legally. I know some people don't like it when others have successful projects, but I've made this for the community and I don't care what they think because I've put everything into it.
+In case of any issues or concerns, please contact: [computerquamtum@gmail.com]
 
 # END OF THE LEGAL CREDITS
