@@ -1,7 +1,7 @@
 # Fortnite Engine (Fortnite Open Source Recreation)
 # What Is This?
 
-This is an open-source recreation of Fortnite, made for people who want to rebuild or simply have fun exploring the game’s systems.
+This is an open-source recreation of Fortnite 1.10, made for people who want to rebuild or simply have fun exploring the game’s systems.
 
 How Do I Compile This?
 
