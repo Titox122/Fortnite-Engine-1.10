@@ -35,7 +35,7 @@ https://discord.gg/UAWdhgsqxA
 
 Creator: Project164
 
-Tector – Helped with everything I know about Fortnite
+Tector – Helped Me with everything I know about Fortnite
 
 GmatrixGames & Tector – JsonAsAsset: https://github.com/GMatrixGames/JsonAsAsset
 
@@ -47,7 +47,7 @@ Dj-Andre – Character direction variable
 
 Brulle (Check Chronos: https://discord.gg/96EXCCjQP7) – Assisted with multiple systems
 
-Vortex – Helped with UEFN patch and other improvements
+Vortex – Help with UEFN patct
 
 Jaum – General assistance and feedback
 
